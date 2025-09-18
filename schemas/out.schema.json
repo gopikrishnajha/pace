@@ -1,0 +1,15 @@
+{
+  "type": "object",
+  "properties": {
+    "ok": {
+      "type": "boolean"
+    },
+    "enriched": {
+      "type": "array"
+    }
+  },
+  "required": [
+    "ok",
+    "enriched"
+  ]
+}
